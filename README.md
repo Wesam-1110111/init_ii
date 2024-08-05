@@ -1,6 +1,10 @@
-How you write good README:
+
+How you write a good README:
 ========
 
-to know how, you can go to https://youtube.com
+
+to know how, you can go to [YouTube](https://youtube.com)
+
+
 
 *good bye*
