@@ -1,0 +1,8 @@
+NOTES:
+=======
+
+
+1. do what you want.
+2. update README.
+3. add [AR, SP, TR] lans.
+4. add Dark mood.
