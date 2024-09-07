@@ -10,3 +10,13 @@ or you can follow me on [F-S](file:///C:/Users/TOSHIBA/Desktop/MyDesktop/New%20F
 
 
 *good bye*
+
+`
+pip list
+`  
+``
+pip list
+``  
+```bash
+pip list
+```
